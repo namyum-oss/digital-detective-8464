@@ -21,3 +21,6 @@
 3. The current-directory display shows the full path of the folder I am currently working in. The pwd command displays this information.
 4. A directory listing shows the files and folders present in the current location. It helps me understand the contents of a directory and find the files I need.
    
+## Task 2.4 – Understand Package Managers
+
+A package manager is a tool that helps install, update and remove software. Homebrew is a commonly used package manager on macOS. It makes software management easier by handling packages and their dependencies in one place.
