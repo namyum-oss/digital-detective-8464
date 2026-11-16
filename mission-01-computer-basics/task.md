@@ -19,16 +19,16 @@ First, I enter text using the keyboard. The computer processes the information u
 
 ## Task 1.2 - Identify hardware and software.
 
-| Item/Software name | Hardware or Software | Software type (if applicable) | Purpose |
-|--|--|--|
+| Item / Software Name | Hardware or Software | Software Type | Purpose |
+|---|---|---|---|
 | Keyboard | Hardware | Not applicable | Used to enter text and commands. |
 | Trackpad | Hardware | Not applicable | Used to move the pointer and interact with the computer. |
 | Monitor / Display | Hardware | Not applicable | Displays text, images and other information. |
-| SSD | Hardware | Not applicable | Stores files, applications and other data. | 
+| SSD | Hardware | Not applicable | Stores files, applications and other data. |
 | macOS | Software | Operating System | Manages the computer and its resources. |
 | Safari | Software | Application Software | Used to browse the internet. |
 | Visual Studio Code | Software | Application Software | Used to write and edit code. |
-| Activity Monitor | Software | Utility Software | Used to monitor system activity and resource usage. | 
+| Activity Monitor | Software | Utility Software | Used to monitor system activity and resource usage. |
 
 ## Task 1.3 - Computer systems around you
 
