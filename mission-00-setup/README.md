@@ -1,6 +1,6 @@
-#Task Completed 
-##digital-detective-8464 
-###Tools Checked: 
+# Task Completed 
+## digital-detective-8464 
+### Tools Checked: 
 Python:3.9.6
 Git:2.55.0
 ### Folders and Files Created 
@@ -28,12 +28,12 @@ Files
 - mission-07-networking/README.md
 - mission-08-final-report/README.md
 
-###NOTE: 
+### NOTE: 
 A repository (repo) is a place where project files are stored and managed using Git. It helps keep track of changes made to the project.
 
 The folder structure is organised by missions so that the work for each topic stays separate. This makes the repository easier to navigate, manage and review.
 
-###Difficulties Faced: 
+### Difficulties Faced: 
 Initially, I was not familiar with Markdown formatting and didn't know how to structure the README properly. I was confused about how headings, bold text and bullet points were created. I learned how these formatting  symbols work and how GitHub uses them to display organised content.
 
 
