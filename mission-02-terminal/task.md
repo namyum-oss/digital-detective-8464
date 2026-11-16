@@ -14,7 +14,7 @@
 | Move / rename file | `mv practice/notes-copy.txt practice/renamed-notes.txt` | Renames a file. | The copied file was renamed. |
 | Display file contents | `cat practice/notes.txt` | Displays the contents of a file. | It displayed nothing because the file was empty. |
 
-##Task 2.2 - Practise file changes safely
+## Task 2.2 - Practise file changes safely
 
 1. Replacing a file's contents removes the previous content and writes new content. Adding text to the end keeps the existing content and adds the new text after it. > replaces, while >> appends.
 2. Copying creates a duplicate of a file while keeping the original. Moving transfers a file to another location or changes its name. cp copies, while mv moves or renames.
