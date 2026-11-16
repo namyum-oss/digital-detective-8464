@@ -19,7 +19,7 @@ First, I enter text using the keyboard. The computer processes the information u
 
 ## Task 1.2 - Identify hardware and software.
 
-| Item/Software name | Hardware or Software | Software type (if applicable) | Purpose|
+| Item/Software name | Hardware or Software | Software type (if applicable) | Purpose |
 |--|--|--|
 | Keyboard | Hardware | Not applicable | Used to enter text and commands. |
 | Trackpad | Hardware | Not applicable | Used to move the pointer and interact with the computer. |
