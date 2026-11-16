@@ -1,4 +1,4 @@
-# The Digital Detective 🕵️
+# The Digital Detective 
 
 ## About the Project
 
