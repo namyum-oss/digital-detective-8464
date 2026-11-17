@@ -38,12 +38,7 @@ Understanding the conversion of numbers between different number systems and arr
 
 Practised the conversion methods step by step, used place values and repeated division, and verified the results using Python.
 
-## 7. Evidence / files
-
-- `task.md` — Manual conversions, Python verification and text-encoding answers.
-- `number_converter.py` — Python number conversion program.
-
-## 8. Commit details
+## 7. Commit details
 
 Commit message: `Build number converter and practise data representation`
 
