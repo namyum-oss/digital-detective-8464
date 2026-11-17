@@ -48,17 +48,7 @@ Initially, I needed to understand how flags and pipes work together.
 
 I practised the commands individually and checked their outputs. This helped me understand how each command and option changes the result.
 
-## 7. Evidence / Files
-
-mission-02-terminal/task.md
-
-terminal-practice/notes.txt
-
-terminal-practice/backup-notes.txt
-
-mission-02-terminal/evidence/
-
-## 8. Commit Details
+## 7. Commit Details
 
 Commit message: Complete Terminal and file management mission
 
