@@ -47,16 +47,7 @@ A Pull Request allows changes from one branch to be reviewed before they are mer
 
 I practised Git commands in Terminal and observed and understood.
 
-## 7. Evidence / files
-
-- `task.md`
-- `README.md`
-- Root `README.md` containing the "My Learning" section.
-- Git commit history.
-- `update-about` branch.
-- Pull Request on GitHub.
-
-## 8. Commit details
+## 7. Commit details
 
 **Commit message:** `Complete Git and GitHub collaboration mission`
 
