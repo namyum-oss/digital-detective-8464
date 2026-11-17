@@ -39,27 +39,34 @@ A branch is a separate line of development within a Git repository. It allows ch
 
 ## Task 6.3 — Create a Pull Request
 
-A Pull Request (PR) is a request to review and merge changes from one branch into another branch.
-
-In this mission, the Pull Request is created from `update-about` into `main`.
+### Objective
+Create a Pull Request from the `update-about` branch into the `main` branch and understand how changes are reviewed before being merged.
 
 ### Steps performed
+1. Published the `update-about` branch to GitHub.
+2. Opened the repository on GitHub.
+3. Selected `main` as the base branch and `update-about` as the compare branch.
+4. Created a Pull Request describing the changes made to the root README.
+5. Reviewed the changes under the Files changed section.
+6. Checked the Pull Request status.
 
-1. Opened the repository on GitHub.
-2. Compared the `update-about` branch with the `main` branch.
-3. Created a Pull Request from `update-about` into `main`.
-4. Added a description explaining the README changes.
-5. Reviewed the changed file.
+### Branch and Pull Request
 
-### Why Are Branches and Pull Requests Useful?
+**Branch:** A branch is a separate line of development that allows changes to be made without directly modifying the main branch.
 
-Branches allow developers to work on separate features or changes without directly affecting the main branch.
+**Pull Request:** A Pull Request is a request to review and merge changes from one branch into another.
 
-Pull Requests allow other contributors to review changes before they are merged. They make collaboration easier by providing a place to discuss, inspect and approve changes.
+### Why branches and Pull Requests are useful
 
-**Pull Request status:** To be updated after creating the PR.
+Branches allow developers to work on changes independently without affecting the main version of a project. Pull Requests allow those changes to be reviewed, discussed and checked before they are merged. This makes collaboration more organised and helps prevent mistakes.
 
-**Merge status:** To be updated after reviewing the PR and following the instructor's instructions.
+### Pull Request details
+
+- **Source branch:** `update-about`
+- **Target branch:** `main`
+- **Purpose:** Add a "My Learning" section to the root README.
+- **Pull Request status:** To be confirmed.
+- **Merge status:** To be confirmed.
 
 ## Task 6.4 — Git Command Glossary
 
