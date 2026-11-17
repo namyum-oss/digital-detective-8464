@@ -45,11 +45,7 @@ Understanding the difference between absolute and relative paths required some p
 
 I practised navigating directories using `pwd` and `cd`.
 
-## 7. Evidence / Files
-
-The observations and command outputs were recorded while completing the tasks. Personal information such as usernames and device names was redacted.
-
-## 8. Commit Details
+## 7. Commit Details
 
 - **Commit message:** Document operating system and file management
 - **Branch:** `main`
