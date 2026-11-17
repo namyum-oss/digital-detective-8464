@@ -31,6 +31,21 @@
 - `hex()` converts an integer into its hexadecimal representation.
 - `print()` displays the converted values.
 
+### Task 5.3 — Test results
+
+The program was tested with three different positive decimal numbers.
+
+| Test number (Decimal input) | Binary output | Hexadecimal output |
+|---:|---|---|
+| 13 | `0b1101` | `0xd` |
+| 25 | `0b11001` | `0x19` |
+| 42 | `0b101010` | `0x2a` |
+
+### Explanation of conversion functions
+
+- `bin()` converts a decimal integer into its binary representation.
+- `hex()` converts a decimal integer into its hexadecimal representation.
+
 ## Task 5.4 — How is text stored?
 
 ### 1. Find the ASCII decimal codes for uppercase A and lowercase a.
