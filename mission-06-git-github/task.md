@@ -39,17 +39,6 @@ A branch is a separate line of development within a Git repository. It allows ch
 
 ## Task 6.3 — Create a Pull Request
 
-### Objective
-Create a Pull Request from the `update-about` branch into the `main` branch and understand how changes are reviewed before being merged.
-
-### Steps performed
-1. Published the `update-about` branch to GitHub.
-2. Opened the repository on GitHub.
-3. Selected `main` as the base branch and `update-about` as the compare branch.
-4. Created a Pull Request describing the changes made to the root README.
-5. Reviewed the changes under the Files changed section.
-6. Checked the Pull Request status.
-
 ### Branch and Pull Request
 
 **Branch:** A branch is a separate line of development that allows changes to be made without directly modifying the main branch.
@@ -59,14 +48,6 @@ Create a Pull Request from the `update-about` branch into the `main` branch and 
 ### Why branches and Pull Requests are useful
 
 Branches allow developers to work on changes independently without affecting the main version of a project. Pull Requests allow those changes to be reviewed, discussed and checked before they are merged. This makes collaboration more organised and helps prevent mistakes.
-
-### Pull Request details
-
-- **Source branch:** `update-about`
-- **Target branch:** `main`
-- **Purpose:** Add a "My Learning" section to the root README.
-- **Pull Request status:** To be confirmed.
-- **Merge status:** To be confirmed.
 
 ## Task 6.4 — Git Command Glossary
 
