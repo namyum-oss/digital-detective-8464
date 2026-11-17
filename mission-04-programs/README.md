@@ -35,14 +35,7 @@ I initially entered the folder name incorrectly while running the Python file, w
 
 I corrected the folder name in the command and ran the program again successfully.
 
-## 7. Evidence / Files
-
-- `hello.py` – Contains the Python program.
-- `task.md` – Contains the completed tasks and compiler/interpreter comparison.
-
-The program displayed the expected output: `Hello from Python`.
-
-## 8. Commit Details
+## 7. Commit Details
 
 - **Commit message:** Compare compilers and interpreters
 - **Branch:** `main`
