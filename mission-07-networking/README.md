@@ -46,13 +46,7 @@ I compared the connectivity test and DNS lookup results to understand what each 
 
 I also organised the website-loading process into individual steps to understand how the browser, client, server, router and protocols work together.
 
-## 7. Evidence / files
-
-- `task.md` — Contains the answers for Tasks 7.1, 7.2 and 7.3.
-- `README.md` — Documents the mission activities and concepts.
-- Terminal observations from the connectivity test and DNS lookup.
-
-## 8. Commit details
+## 7. Commit details
 
 **Commit message:** Explain networking concepts and website communication
 
