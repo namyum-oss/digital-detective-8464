@@ -18,11 +18,8 @@
 |---|---|---|---|
 | Decimal 13 to binary | `bin(13)` | `0b1101` | Yes |
 | Decimal 25 to binary | `bin(25)` | `0b11001` | Yes |
-| Binary 1010 to decimal | `int("1010", 2)` | `10` | Yes |
-| Binary 1101 to decimal | `int("1101", 2)` | `13` | Yes |
-| Hexadecimal A to decimal | `int("A", 16)` | `10` | Yes |
-| Hexadecimal 1F to decimal | `int("1F", 16)` | `31` | Yes |
-| Binary 1111 to hexadecimal | `hex(int("1111", 2))` | `0xf` (F₁₆) | Yes |
+| Decimal 42 to binary | `bin(42)` | `0b101010` | Yes |
+
 
 ### Explanation
 
