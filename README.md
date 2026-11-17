@@ -20,3 +20,9 @@ The work is divided into different missions, with each mission covering a specif
 - [Mission 08 - Final report](mission-08-final-report/README.md) 
 
 Each mission is completed and committed seperately
+
+## My Learning
+
+- I learned how Git tracks changes and how staging differs from committing.
+- I practised using branches to work on changes separately from the main branch.
+- I learned how GitHub supports collaboration through Pull Requests.
