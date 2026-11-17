@@ -19,10 +19,39 @@ The work is divided into different missions, with each mission covering a specif
 - [Mission 07 - Understanding computer networks](mission-07-networking/README.md)
 - [Mission 08 - Final report](mission-08-final-report/README.md) 
 
-Each mission is completed and committed seperately
+## Topics Explored
+
+- Computer fundamentals, hardware, software and the IPOS cycle.
+- Terminal commands, file management, flags and pipes.
+- Operating systems, processes, storage, paths and permissions.
+- Compilers, interpreters and program execution.
+- Number systems, binary and hexadecimal conversions, Python and text encoding.
+- Git, GitHub, version control, branches and Pull Requests.
+- Computer networks, DNS, routers, protocols and client-server communication.
+
+## Running the Number Converter
+
+The number converter is located inside the `mission-05-numbers-data/` folder.
+
+To run it from the repository's root directory, open Terminal and execute:
+
+```bash
+python3 mission-05-numbers-data/number_converter.py
+```
+
+The program accepts a decimal number and displays its binary and hexadecimal representations.
 
 ## My Learning
 
-- I learned how Git tracks changes and how staging differs from committing.
-- I practised using branches to work on changes separately from the main branch.
-- I learned how GitHub supports collaboration through Pull Requests.
+Through this assignment, I have learned:
+
+- How computers process information using the Input, Processing, Output and Storage (IPOS) cycle.
+- How to use Terminal commands to navigate directories and manage files.
+- How operating systems manage processes, storage and file permissions.
+- How Python programs execute and how numbers and text are represented.
+- How Git tracks changes and how GitHub supports version control and collaboration.
+- How computers communicate through networks and how websites load.
+
+## Repository Structure
+
+Each mission was documented and committed separately to maintain an organised record of the work completed.
