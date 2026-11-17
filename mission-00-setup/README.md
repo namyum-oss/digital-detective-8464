@@ -57,31 +57,8 @@ I learned the basic Markdown syntax and practised using it while creating and fo
 
 For the GitHub connection issue, I checked the remote repository URL, verified the repository name and corrected the connection. I also learned that changes on GitHub and local changes need to be synchronised before pushing.
 
-## 7. Evidence / Files
-
-The following files and folders were created as part of this mission:
-
-- Root `README.md`
-- `mission-00-setup/README.md`
-- `mission-01-computer-basics/README.md`
-- `mission-02-terminal/README.md`
-- `mission-03-operating-system/README.md`
-- `mission-04-programs/README.md`
-- `mission-05-numbers-data/README.md`
-- `mission-05-numbers-data/number_converter.py`
-- `mission-06-git-github/README.md`
-- `mission-07-networking/README.md`
-- `mission-08-final-report/README.md`
-- `evidence/` folder
-
-## 8. Commit Details
+## 7. Commit Details
 
 **Initial commit message:** Set up Digital Detective mission structure
 
 The initial project structure was committed using Git and pushed to the public GitHub repository.
-
-## 9. Commit Details and Verification
-
-The repository was checked on GitHub to confirm that the project files and folders were visible.
-
-The setup work was committed and pushed successfully.
