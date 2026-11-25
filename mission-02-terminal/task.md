@@ -20,7 +20,25 @@
 2. Copying creates a duplicate of a file while keeping the original. Moving transfers a file to another location or changes its name. cp copies, while mv moves or renames.
 3. The current-directory display shows the full path of the folder I am currently working in. The pwd command displays this information.
 4. A directory listing shows the files and folders present in the current location. It helps me understand the contents of a directory and find the files I need.
-   
+
+## Task 2.3 - Understand flags and pipes
+
+### Commands Used
+
+| Command                | Purpose                                                                              |
+| ---------------------- | ------------------------------------------------------------------------------------ |
+| `ls`                   | Displays a normal directory listing.                                                 |
+| `ls -lah`              | Displays detailed information, including hidden files and human-readable file sizes. |
+| `ls -lah \| head -n 5` | Displays the first five lines of a detailed directory listing.                       |
+
+### Understanding Pipes
+
+The pipe symbol (`|`) transfers the output of one command as input to another command.
+
+- `-l`: Displays detailed file information, including permissions, ownership, size and modification date.
+- `-a`: Includes hidden files and directories.
+- `-h`: Displays file sizes in a human-readable format.
+
 ## Task 2.4 – Understand Package Managers
 
 A package manager is a tool that helps install, update and remove software. Homebrew is a commonly used package manager on macOS. It makes software management easier by handling packages and their dependencies in one place.
